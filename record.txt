@@ -1,3 +1,2 @@
 1: alice
-2: victor2
-2: victor3
+2: victor4
